@@ -18,4 +18,7 @@ java HtmlAnalyzer <url>
 - Compilado e testado com Java 17 (OpenJDK);
 - Desenvolvido utilizando apenas recursos do JDK 17;
 - Não utiliza bibliotecas externas ou APIs de parsing HTML;
-- Detecta HTML malformado como informado no desafio. 
+- Detecta HTML malformado como informado no desafio.
+
+## Importante
+Este é um desafio técnico desenvolvido para um processo seletivo de estágio em desenvolvimento de software. 
