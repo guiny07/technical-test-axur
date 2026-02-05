@@ -1,0 +1,1 @@
+Projeto compilado e testado com Java 17 (OpenJDK)
